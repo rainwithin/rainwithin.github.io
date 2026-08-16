@@ -1,5 +1,5 @@
 <div class="hero">
-  <h1 class="hero-title">Welcome to Kaaovo's personal website~</h1>
+  <h1 class="hero-title">Welcome to Kaaovo's personal website！</h1>
 
   <a class="star-nav s1" href="index.html">
     <span class="star">★</span>

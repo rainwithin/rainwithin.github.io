@@ -12,7 +12,11 @@ extra_css:
 
 nav:
   - 主页: index.md
-  - 课程: course/index.md
+  - 课程:
+      - 课程首页: course/index.md
+      - 分析: course/analysis/index.md
+      - 代数: course/algebra/index.md
+      - 其它: course/others/index.md
   - 友链: friends/index.md
   - 关于: about/index.md
   - 娱乐: entertainment/index.md

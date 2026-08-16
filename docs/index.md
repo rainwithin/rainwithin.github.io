@@ -1,5 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: center; min-height: 60vh; text-align: center;">
-  <h1 style="font-size: 4rem; font-weight: 300; letter-spacing: 0.05em; margin: 0; color: #eef2ff;">
-    Kaaovo's personal website
-  </h1>
+<div class="hero">
+  <div class="hero-inner">
+    <span class="hero-star s1">★</span>
+    <span class="hero-star s2">★</span>
+    <span class="hero-star s3">★</span>
+    <span class="hero-star s4">★</span>
+    <span class="hero-star s5">★</span>
+    <h1 class="hero-title">Kaaovo's personal website</h1>
+  </div>
 </div>

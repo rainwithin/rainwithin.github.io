@@ -6,3 +6,6 @@ __pycache__/
 
 # MkDocs Material 的缓存目录
 .cache/
+
+# 教材原版备份（超过100MB，不上传）
+_original_backup.pdf

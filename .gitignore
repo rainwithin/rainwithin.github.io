@@ -1,0 +1,8 @@
+# 自动生成的构建产物（本地运行 mkdocs build 会产生），不需要上传
+site/
+
+# Python 缓存文件，不需要上传
+__pycache__/
+
+# MkDocs Material 的缓存目录
+.cache/

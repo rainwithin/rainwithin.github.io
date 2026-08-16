@@ -51,6 +51,28 @@ def hello():
 
 ---
 
+## 八、插入图片
+
+图片的写法是一行：`![图片说明](图片的路径)`。
+
+把图片文件放进 `images` 文件夹后，这样写：
+
+![示例图片](images/sample.svg)
+
+> 实际使用时，把你自己的图片（png、jpg、svg 等）放到 `docs/course/images/` 文件夹里，然后把上面路径里的文件名换成你的图片名即可。
+
+## 九、插入 PDF
+
+**方式一：放一个链接**，点击后在浏览器里打开或下载：
+
+[查看示例 PDF](files/sample.pdf)
+
+**方式二：直接嵌在页面里显示**（用一段 HTML，可以像电子书一样翻页）：
+
+<embed src="files/sample.pdf" width="100%" height="600" type="application/pdf">
+
+> 实际使用时，把你的 PDF 放到 `docs/course/files/` 文件夹里，然后照上面的格式写路径即可。
+
 以上就是一篇示例文章的常见写法。记住几个要点：
 
 - 文章开头用 `# 标题`（一级标题）

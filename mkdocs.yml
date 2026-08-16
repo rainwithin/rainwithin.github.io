@@ -4,6 +4,8 @@ site_description: "Kaaovo's personal website"
 theme:
   name: material
   language: zh
+  palette:
+    scheme: slate
 
 extra_css:
   - stylesheets/extra.css

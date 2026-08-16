@@ -1,4 +1,12 @@
 <div class="hero">
+  <svg class="constellation-lines" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+    <line x1="50" y1="50" x2="27" y2="12"/>
+    <line x1="50" y1="50" x2="73" y2="12"/>
+    <line x1="50" y1="50" x2="12" y2="50"/>
+    <line x1="50" y1="50" x2="88" y2="50"/>
+    <line x1="50" y1="50" x2="50" y2="87"/>
+  </svg>
+
   <h1 class="hero-title">Kaaovo's personal website</h1>
 
   <a class="star-nav s1" href="index.html">
